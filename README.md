@@ -1,9 +1,3 @@
-# Effective.af
-
-![Task hierarchy](https://user-images.githubusercontent.com/139603/50059966-96bdc800-0142-11e9-8f76-238f3012d877.png)
-
----
-
 ## What is Effective?
 
 Effective is open source software for effectively organizing groups
